@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+# locale = 'en-us'
+# title = 'My New Hugo Project'
+
+# baseurl = "http://linskyless.dpdns.org/"
+languageCode = "zh-cn"
+title = "Linskyless的博客"
+theme = "PaperMod"
+
+[params]
+  env = "production" # 启用一些优化
